@@ -10,7 +10,7 @@ namespace ConsoleAppAp7
     {
         static void Main(string[] args)
         {
-            // Added comments from Github
+            // edited comments from Github
         }
     }
 }
