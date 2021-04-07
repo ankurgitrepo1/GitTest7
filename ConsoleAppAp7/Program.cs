@@ -11,6 +11,7 @@ namespace ConsoleAppAp7
         static void Main(string[] args)
         {
             // edited comments from Github
+            // code was added in VS
         }
     }
 }
