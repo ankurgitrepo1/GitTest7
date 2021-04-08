@@ -8,9 +8,9 @@ namespace ConsoleAppAp7
 {
    public class Feature1
     {
-        public int MyProperty { get; set; }
+        public int MyProperty1 { get; set; }
         public int MyProperty2 { get; set; }
-        public int MyProperty3 { get; set; }
+       
     }
 
 }
